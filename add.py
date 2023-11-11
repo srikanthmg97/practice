@@ -5,4 +5,3 @@ z = 12
 result = a + b
 
 print(result)
-
